@@ -1,5 +1,5 @@
 <a href="https://ljj.world">
-  <img src="https://raw.githubusercontent.com/lij768423-svg/ljj-world/main/docs/screenshots/home.jpg" alt="ljj.world — interactive portfolio" width="100%">
+  <img src="./assets/ljj-world-home.jpg" alt="ljj.world — interactive portfolio" width="100%">
 </a>
 
 ## Hi, I'm Ljj
